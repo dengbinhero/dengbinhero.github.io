@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Dengbinhero's home
+subtitle: 苦才是人生，做才是得到
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: 嗨，我是邓斌 (@dengbinhero)，一名 iOS / Python 开发者。现居北京，就职于 Weibo。世界很大、很美，很高兴与你相遇。
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://vno.onevcat.com"
@@ -13,16 +13,16 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+# cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 关于, description: My Projects, href: "/2017/07/about/"}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,7 +37,7 @@ comment:
     
 # Social
 social:
-    weibo: dengbinhero
+    weibo: 邓盛斌
     github: dengbinhero
     twitter: dengbinhero
     gplus: 107108267983477358170
