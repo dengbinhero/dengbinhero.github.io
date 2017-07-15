@@ -3,7 +3,7 @@ title: Dengbinhero's home
 subtitle: 苦才是人生，做才是得到
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: 嗨，我是邓斌 (@dengbinhero)，一名 iOS / Python 开发者。现居北京，就职于 Weibo。世界很大、很美，很高兴与你相遇。
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="https://dengbinhero.github.io</a>
 
 url: "http://vno.onevcat.com"
 
@@ -40,7 +40,6 @@ social:
     weibo: 邓盛斌
     github: dengbinhero
     twitter: dengbinhero
-    gplus: 107108267983477358170
     mail: dengbinhero@163.com
 
 # Google Analytics
