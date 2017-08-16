@@ -7,10 +7,10 @@ tags: iOS
 
 ### 概要
 目前微博团队使用的是<strong>隔周</strong>发版机制，即：<strong>每两周发一个版本</strong>，保证每月至少保证迭代两个版本。每个迭代会经历alpa1、alpha2、release三个阶段来保证代码质量。
-角色扮演：
-PM：负责推动整个需求进程，把控各个关键时间节点，build阶段质量验收，推动提测进程，监督需求完成质量，直到上线，具有一定project manager的
-RD：需求开发、bugfix，听PM的，听测试的。
-QA：保证build阶段、alpha1、alpha2、alpha3阶段代码质量，保证需求进版质量。RD开发后的功能最终是否能进版QA具有决定权（通常是质量达不到要求被QA拒绝进版）
+####角色扮演
+*  PM：负责推动整个需求进程，把控各个关键时间节点，build阶段质量验收，推动提测进程，监督需求完成质量，直到上线，具有一定project manager的
+*  RD：需求开发、bugfix，听PM的，听测试的。
+*  QA：保证build阶段、alpha1、alpha2、alpha3阶段代码质量，保证需求进版质量。RD开发后的功能最终是否能进版QA具有决定权（通常是质量达不到要求被QA拒绝进版）
 
 ### 发版流程图
 ![](/assets/images/2017/release_1.png)
