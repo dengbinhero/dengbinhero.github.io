@@ -6,7 +6,7 @@ tags: Reading,Book,Efficiency
 ---
 
 ## <center>阅读《番茄工作法图解》</center>  
-![](/assets/images/book_Pomodora/cover.jpeg){:height="100" width="100"}
+![](/assets/images/book_Pomodora/cover.jpg){:height="100" width="100"}
 <center>封面 作者：Staffan</center>
 
 ### 一：关于
