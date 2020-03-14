@@ -6,8 +6,10 @@ tags: Reading,Book,Efficiency
 ---
 
 ## <center>阅读《番茄工作法图解》</center>  
-![](/assets/images/book_Pomodora/cover.jpg){:height="100" width="100"}
+<center><img src="https://img1.doubanio.com/view/subject/l/public/s29823747.jpg" width="200" height="280"/></center>
 <center>封面 作者：Staffan</center>
+
+
 
 ### 一：关于
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果你每天似乎有忙不完的工作，但是产出却又不尽人意，我们就该反思一下到底是真的那么忙？还是只是因为你效率低了？我们应该如何拒绝低效的忙绿，应该如何高效的工作，如果掌控好自己的时间，这本书从理论和实践等方面，尝试告诉你答案。  
@@ -50,8 +52,8 @@ tags: Reading,Book,Efficiency
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;番茄时间，是极度专注，一心一意的时间，这个时间段内除了这个番茄钟内的任务，其他所有事情和任务都不考虑。番茄钟结束后，在下一个番茄钟开始之前，我们从专注模拟切换到全景模式，通过四象限，整理和安排下一个最重要的番茄事件。
 
 
-## <center>[番茄工作法花树图](https://www.sohu.com/a/338430739_100279114 "北京平均通勤时间")</center>
-![](/assets/images/book_Pomodora/番茄工作法花树图.pdf)
+## <center>[番茄工作法花树图](https://www.sohu.com/a/338430739_100279114 "花树图")</center>
+<center>![](/assets/images/book_Pomodora/番茄工作法花树图.pdf)<center>
 
 
 ### 三：怎么实施番茄工作法
