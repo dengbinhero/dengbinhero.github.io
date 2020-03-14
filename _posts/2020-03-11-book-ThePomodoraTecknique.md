@@ -6,7 +6,7 @@ tags: Reading,Book,Efficiency
 ---
 
 ## <center>阅读《番茄工作法图解》</center>  
-![](/assets/images/book_Pomodora/cover.jpeg)
+![](/assets/images/book_Pomodora/cover.jpeg){:height="100" width="100"}
 <center>封面 作者：Staffan</center>
 
 ### 一：关于
@@ -49,7 +49,8 @@ tags: Reading,Book,Efficiency
 <strong>6:全景模式</strong>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;番茄时间，是极度专注，一心一意的时间，这个时间段内除了这个番茄钟内的任务，其他所有事情和任务都不考虑。番茄钟结束后，在下一个番茄钟开始之前，我们从专注模拟切换到全景模式，通过四象限，整理和安排下一个最重要的番茄事件。
 
-## <center>[番茄工作法花树图](https://www.xmind.net/m/6i24/)</center>
+
+## <center>[番茄工作法花树图](https://www.sohu.com/a/338430739_100279114 "北京平均通勤时间")</center>
 ![](/assets/images/book_Pomodora/番茄工作法花树图.pdf)
 
 
@@ -57,7 +58,7 @@ tags: Reading,Book,Efficiency
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过这段时间的实践，个人感觉还是很有效果，能很大的提升工作效率，特别是在家办公的时候，番茄钟时间能够很好的执行，但是到了公司之后，会发现外部中断比较多，对每个番茄钟的保护不够，相比效率要比在家低不少。需要持续学习、持续调整，学会怎么更好的处理外部中断，学会如果更好的保护每个番茄钟。peace。最后分享一张这周爬“百望山”拍下的照片。
 
 
-![](/assets/images/remote_work/fish.jpeg)
+![](/assets/images/book_Pomodora/baiwangshan.jpeg)
 <center>百望山森林公园</center>
 
 
