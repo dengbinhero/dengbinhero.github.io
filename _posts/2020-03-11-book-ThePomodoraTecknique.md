@@ -52,7 +52,7 @@ tags: Reading,Book,Efficiency
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;番茄时间，是极度专注，一心一意的时间，这个时间段内除了这个番茄钟内的任务，其他所有事情和任务都不考虑。番茄钟结束后，在下一个番茄钟开始之前，我们从专注模拟切换到全景模式，通过四象限，整理和安排下一个最重要的番茄事件。
 
 
-###[番茄工作法花树图](https://www.sohu.com/a/338430739_100279114 "花树图")
+<center>[番茄工作法花树图](https://www.xmind.net/m/6i24/ "花树图")  </center>
 ![](/assets/images/book_Pomodora/番茄工作法花树图.pdf)
 
 
