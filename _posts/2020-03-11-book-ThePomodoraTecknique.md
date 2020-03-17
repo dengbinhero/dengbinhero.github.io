@@ -52,13 +52,13 @@ tags: Reading,Book,Efficiency
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;番茄时间，是极度专注，一心一意的时间，这个时间段内除了这个番茄钟内的任务，其他所有事情和任务都不考虑。番茄钟结束后，在下一个番茄钟开始之前，我们从专注模拟切换到全景模式，通过四象限，整理和安排下一个最重要的番茄事件。
 
 [番茄工作法花树图](https://www.xmind.net/m/6i24/ "花树图")
-<center><img src="https://wx4.sinaimg.cn/mw1024/797bb4bfly1gct65946yfj23gj36fe81.jpg"/></center>
+<center><img src="https://wx3.sinaimg.cn/large/797bb4bfly1gct634w3efj20wn0u0e81.jpg"/></center>
 
 
 ### 三：怎么实施番茄工作法
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过这段时间的实践，个人感觉还是很有效果，能很大的提升工作效率，特别是在家办公的时候，番茄钟时间能够很好的执行，但是到了公司之后，会发现外部中断比较多，对每个番茄钟的保护不够，相比效率要比在家低不少。需要持续学习、持续调整，学会怎么更好的处理外部中断，学会如果更好的保护每个番茄钟。peace。最后分享一张这周爬“百望山”拍下的照片。
 
-<center><img src="https://wx4.sinaimg.cn/mw1024/797bb4bfly1gct5y0z45xj23402c0u0y.jpg"/></center>
+<center><img src="https://wx4.sinaimg.cn/large/797bb4bfly1gct5y0z45xj23402c0u0y.jpg"/></center>
 <center>百望山森林公园</center>
 
 
